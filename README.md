@@ -50,6 +50,7 @@ Réseaux virtuels (Proxmox Linux Bridges)
 ```
 
 Proxmox VE joue ici le rôle du matériel physique sous-jacent (virtualisation imbriquée), permettant de simuler une infrastructure de production sur un environnement de lab.
+![Architecture MedSearch](./schema-medsearch.png)
 
 ---
 
